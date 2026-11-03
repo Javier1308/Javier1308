@@ -20,7 +20,6 @@ Computer Science at UTEC · [LinkedIn](https://linkedin.com/in/javier-olivares-s
 - **[Studdy Buddy](https://github.com/Javier1308/Studdy-Buddy)**: AI tutoring platform in Next.js and Supabase, including its Claude Code agent setup
 - **[Kipu](https://github.com/Javier1308/kipu)**: teaching audit MVP built during a hackathon, with AI scoring against official rubrics
 - **[PeP](https://github.com/Javier1308/pep-project)**: classroom tool that turns a recorded session into a transcript and AI-assisted guidance
-- **[Perú Defiende tu Voto](https://github.com/Javier1308/peruanos-por-el-cambio)**: civic registration platform in FastAPI and React
 
 ## Stack
 
