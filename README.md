@@ -23,4 +23,4 @@ Computer Science at UTEC · [LinkedIn](https://linkedin.com/in/javier-olivares-s
 
 ## Stack
 
-TypeScript · Python · Java · Go · Next.js · React · NestJS · FastAPI · Spring Boot · PostgreSQL · Redis · Docker · LangGraph · Claude API
+TypeScript · Python · Java · Go · Next.js · React · NestJS · FastAPI · Spring Boot · PostgreSQL · Redis · Docker · AWS · LangGraph · Claude API
